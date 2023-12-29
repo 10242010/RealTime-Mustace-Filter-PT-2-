@@ -1,0 +1,14 @@
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+#secondbtn{
+    background-color: B4D4FF;
+    border-color: transparent;
+    border-radius: 25px;
+    font-size: larger;
+    color: black;
+    
+}
